@@ -1,3 +1,3 @@
 #Find square of a number
-num=8
+num=int(input("Enter number:"))
 print("Square:",num*num)
